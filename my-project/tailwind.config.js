@@ -25,6 +25,8 @@ module.exports = {
         violetBorder: '#EBBDFF',
         violetBg: '#FCF5FF',
         lightXlPurple: '#FFFBFA',
+        lightRed: '#FDF9F8',
+        grayText: '#677487',
       },
     },
   },
